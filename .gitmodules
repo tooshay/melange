@@ -1,0 +1,12 @@
+[submodule "melange-applications"]
+	path = melange-applications
+	url = git@github.com:tooshay/melange-applications.git
+	branch = master
+[submodule "melange-users"]
+	path = melange-users
+	url = git@github.com:tooshay/melange-users.git
+	branch = master
+[submodule "melange-gateway"]
+	path = melange-gateway
+	url = git@github.com:tooshay/melange-gateway.git
+	branch = master
